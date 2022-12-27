@@ -1,0 +1,2 @@
+# PublicStaticVoidMAIN
+first public repository
